@@ -42,7 +42,6 @@ using TDAmeritradeApi.Client.Models;
 using TDAmeritradeApi.Client.Models.AccountsAndTrading;
 using TDAmeritradeApi.Client.Models.MarketData;
 using AccountsAndTrading = TDAmeritradeApi.Client.Models.AccountsAndTrading;
-
 namespace QuantConnect.Brokerages.TDAmeritrade
 {
     /// <summary>
